@@ -7,7 +7,7 @@
 ![login](https://raw.githubusercontent.com/Theanishtar/Images/master/login-swing/run-login.png)
 
 - Giao diện 
-![GUI](https://raw.githubusercontent.com/Theanishtar/Images/master/login-frame/login-frame_First_Frame.png)
+![GUI](https://raw.githubusercontent.com/Theanishtar/Images/master/login-swing/login-frame/login-frame_First_Frame.png)
 
 - Trải nghiệm
 
