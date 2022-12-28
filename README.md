@@ -1,4 +1,4 @@
-# login-swing
+# Tên dự án: Giao diện đăng nhập viết bằng Java Swing
 
 ## Cài đặt
 
